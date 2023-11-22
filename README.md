@@ -21,7 +21,9 @@ Antes de começar a trabalhar no projeto, certifique-se de ter as seguintes ferr
 
 ## Configuração do Projeto
 
-Clone o repositório do GitHub: [Estacionamento DIO](https://github.com/LeonardoWAP/trilha-net-fundamentos-desafio.git)
+Clone o repositório do GitHub: 
+```bash
+git clone https://github.com/LeonardoWAP/trilha-net-fundamentos-desafio.git
 
 ## Funcionalidades
 
