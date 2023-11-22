@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEktWD8D5BjsoT18JCVIQZxkG2X52o4tvKUasqOsMINyq9dI+ENzQ04JJa/cU6/8pCtVbW71ZnzDPqdrnmVygg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leonardo\\OneDrive - Instituto Presbiteriano Mackenzie\\FACULDADE\\Área de Trabalho\\DIO.me C#\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonardo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\leonardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\leonardo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\leonardo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
