@@ -21,20 +21,17 @@ Antes de começar a trabalhar no projeto, certifique-se de ter as seguintes ferr
 
 ## Configuração do Projeto
 
-Clone o repositório do GitHub: 
-```bash
+Clone o repositório do GitHub:
+
 git clone https://github.com/LeonardoWAP/trilha-net-fundamentos-desafio.git
 
 ## Funcionalidades
 
-### Adicionar Veículo
+**Adicionar Veículo**
+<br>Adiciona um veículo à lista de veículos estacionados.
 
-Adiciona um veículo à lista de veículos estacionados.
+**Remover Veículo**
+<br>Remove um veículo da lista e calcula o custo com base no tempo de permanência.
 
-### Remover Veículo
-
-Remove um veículo da lista e calcula o custo com base no tempo de permanência.
-
-### Listar Veículos
-
-Exibe todos os veículos estacionados.
+**Listar Veículos**
+<br>Exibe todos os veículos estacionados.
